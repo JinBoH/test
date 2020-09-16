@@ -7,4 +7,5 @@ main()
     printf("123");
     system("pause");
     printf("create branch");
+    printf("create a new branch is quick AND simple");
 }
