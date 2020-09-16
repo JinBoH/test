@@ -4,6 +4,6 @@
 main()
 {
     printf("git test");
-    printf("123")
+    printf("123");
     system("pause");
 }
